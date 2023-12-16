@@ -10,6 +10,9 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^4.0.5"
+    "@astrojs/node": "^7.0.1",
+    "@studio-freight/lenis": "^1.0.29",
+    "astro": "^4.0.5",
+    "sass": "^1.69.5"
   }
 }
